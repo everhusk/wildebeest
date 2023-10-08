@@ -10,11 +10,11 @@ export default component$(() => {
 	return (
 		<div class="hidden xl:block text-sm">
 			<p class="text-wildebeest-400">
-				<span class="text-semi">{domain}</span> is part of the decentralized social network powered by{' '}
-				<a href="https://github.com/cloudflare/wildebeest">Wildebeest</a>.
+				<span class="text-semi">{domain}</span> is part of the decentralized governance system powered by{' '}
+				<a href="https://earthether.org">Earth</a>.
 			</p>
 			<div>
-				<img class="w-full" src={config.thumbnail} alt="Wildebeest instance thumbnail" />
+				<img class="w-full" src={config.thumbnail} alt="social.network instance thumbnail" />
 				<p>{config.description}</p>
 			</div>
 			<Link

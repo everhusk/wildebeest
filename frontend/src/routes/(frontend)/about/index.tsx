@@ -67,13 +67,13 @@ export default component$(() => {
 					</h2>
 					<p data-testid="social-text" class="mb-6 text-wildebeest-500">
 						<span>
-							Decentralized social network powered by{' '}
+							Decentralized governance system powered by {' '}
 							<a
-								href="https://github.com/cloudflare/wildebeest"
+								href="https://earthether.org"
 								class="no-underline text-wildebeest-200 font-semibold"
 								target="_blank"
 							>
-								Wildebeest
+								EARTH
 							</a>
 						</span>
 					</p>
